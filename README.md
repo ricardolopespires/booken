@@ -10,7 +10,7 @@ Booken é um site de livraria totalmente responsivo, responsivo para todos os di
     <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ricardolopespires/booken"/>
     <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/ricardolopespires/booken"/>
                 
-   <img align = right src="https://github.com/ricardolopespires/SinAnalytics/blob/main/home-img.png" width = 490/>
+   <img align = right src="https://github.com/ricardolopespires/booken/blob/main/Banner.png" width = 410/>
 </p>
 
 
