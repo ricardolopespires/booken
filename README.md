@@ -13,7 +13,7 @@
 
 <br>
 
-**Construído Gerenciamnto de Condominios com Python e Django.**
+**Construído E-commerce de Livros com Python e Django.**
 
 
 
@@ -21,10 +21,8 @@
 ## Recursos
 
 * Interface para de gerencimento do Finaceiro
-* interface dos condominos, pagamento 
-* Visualizações por unidade, inadimplências, acordos, boletos
+* interface de pagamento 
 * Entre e saia, crie seu perfil, atualize sua foto de perfil
-* Interaja com os débitos e créditos 
 * Integração com Amazon AWS S3 para arquivos estáticos
 
 ## Construído com
