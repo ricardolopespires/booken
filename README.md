@@ -1,7 +1,6 @@
 
 <p align = left'>
-    <img alt="PyPI - Django Version" src="https://img.shields.io/pypi/djversions/booken">
-    <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/booken">
+    <img alt="PyPI - Django Version" src="https://img.shields.io/pypi/djversions/booken">    
     <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ricardolopespires/booken"/>
     <img alt="" src="https://img.shields.io/github/repo-size/ricardolopespires/booken"/>
     <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/ricardolopespires/booken"/>
