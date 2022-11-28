@@ -1,54 +1,43 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/booken)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/booken?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/booken?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/iHsVNWmcBAs?style=social)](https://youtu.be/iHsVNWmcBAs)
 
-  <br />
-  <br />
+<p align = left'>
+    <img alt="PyPI - Django Version" src="https://img.shields.io/pypi/djversions/booken">
+    <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/booken">
+    <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ricardolopespires/booken"/>
+    <img alt="" src="https://img.shields.io/github/repo-size/ricardolopespires/booken"/>
+    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/ricardolopespires/booken"/>
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ricardolopespires/booken"/>
+    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/ricardolopespires/booken"/>
+                
+   <img align = right src="https://github.com/ricardolopespires/SinAnalytics/blob/main/home-img.png" width = 490/>
+</p>
 
-  <h2 align="center">Booken - Book Store Website</h2>
 
-  Booken is a fully responsive book store website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+<br>
 
-  <a href="https://codewithsadee.github.io/booken/"><strong>➥ Live Demo</strong></a>
+**Construído Gerenciamnto de Condominios com Python e Django.**
 
-</div>
 
-<br />
 
-### Demo Screeshots
 
-![Booken Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+## Recursos
 
-### Prerequisites
+* Interface para de gerencimento do Finaceiro
+* interface dos condominos, pagamento 
+* Visualizações por unidade, inadimplências, acordos, boletos
+* Entre e saia, crie seu perfil, atualize sua foto de perfil
+* Interaja com os débitos e créditos 
+* Integração com Amazon AWS S3 para arquivos estáticos
 
-Before you begin, ensure you have met the following requirements:
+## Construído com
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* Python 3.6.4
+* Django  2.0.4,
+* Django 3.1
+* Pillow
 
-### Run Locally
+## Contribuindo
 
-To run **Booken** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/booken.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/booken.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+-----------------------------------------------------
+Se você quiser contribuir, é só abrir um problema e me dizer onde posso melhorar.
+Bifurque o repositório e altere o que quiser.
+Os pedidos de pull são sempre bem-vindos.
